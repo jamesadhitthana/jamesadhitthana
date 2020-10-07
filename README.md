@@ -1,6 +1,6 @@
 [![Header-JamesAdhitthana](https://raw.githubusercontent.com/jamesadhitthana/jamesadhitthana/main/james-header.png "Header")](https://jamesgalaxy.com/)
 
-# Hello <img src="https://raw.githubusercontent.com/jamesadhitthana/jamesadhitthana/main/peter.gif" width="70px">
+# Hello <img src="https://raw.githubusercontent.com/jamesadhitthana/jamesadhitthana/main/peter.gif" width="50px">
 
 Bilingual (English & Bahasa Indonesia), diligent, and competitive person, I am overly committed to finishing my tasks and striving to be better than others. When I am interested in a topic, I immerse myself in that topic to the point where I know I am confident that I can teach others on the subject. You should check out some of my projects! All of my projects are well documented 🤗
 
