@@ -1,6 +1,14 @@
+<!-- [![Header-JamesAdhitthana](# "Header")](https://jamesgalaxy.com/) -->
+
+# Oh, hi Mark <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+Bilingual (English & Bahasa Indonesia), diligent, and competitive person, I am overly committed to finishing my tasks and striving to be better than others. When I am interested in a topic, I immerse myself in that topic to the point where I know I am confident that I can teach others on the subject.
+
+## 📷 Photography
+When I'm not in front of my laptop, I'll be behind the camera! I like to show them off on my [Instagram](https://instagram.com/paynedeath) as well as on [Flickr](https://www.flickr.com/photos/paynejames) and because I love open source, on [Pexels](https://www.pexels.com/@james-adhitthana-233943) too.
+<!--
 ### Hi there 👋
 
-<!--
 **jamesadhitthana/jamesadhitthana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
