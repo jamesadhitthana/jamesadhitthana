@@ -13,7 +13,7 @@ Bilingual (English & Bahasa Indonesia), diligent, and competitive person, I am o
 
 ## 📷 Photography
 
-When I'm not in front of my laptop, I'll be behind the camera! I like to show them off on my [Instagram](https://instagram.com/paynedeath) as well as on [Flickr](https://www.flickr.com/photos/paynejames) and because I love open source, on [Pexels](https://www.pexels.com/@james-adhitthana-233943) too.
+When I'm not in front of my laptop, I'll be behind the camera! I like to show them off on my [Instagram](https://instagram.com/paynedeath), [Flickr](https://www.flickr.com/photos/paynejames), and because I love open source, on [Pexels](https://www.pexels.com/@james-adhitthana-233943) too.
 
 ## 🔧 Favorite Tech
 
