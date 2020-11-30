@@ -5,9 +5,9 @@
 Bilingual (English & Bahasa Indonesia), diligent, and competitive person, I am overly committed to finishing my tasks and striving to be better than others. When I am interested in a topic, I immerse myself in that topic to the point where I know I am confident that I can teach others on the subject. You should check out some of my projects! All of my projects are well documented 🤗
 
 - 🔭 I’m currently working on finding a job (someone please [hire me](https://jamesgalaxy.com))
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Go (Golang)
 - 👯 I’m looking to collaborate on web apps
-- 🤔 I’m looking for help with relationships
+- 🤔 I’m looking for help with finding purpose in life
 - ⚡ Fun fact: I love watching documentaries!
 - 💬 Ask me about documentaries! Have I said how much I love documentaries?
 
