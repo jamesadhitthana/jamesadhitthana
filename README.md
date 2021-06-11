@@ -4,10 +4,10 @@
 
 Bilingual (English & Bahasa Indonesia), diligent, and competitive person, I am overly committed to finishing my tasks and striving to be better than others. When I am interested in a topic, I immerse myself in that topic to the point where I know I am confident that I can teach others on the subject. You should check out some of my projects! All of my projects are well documented 🤗
 
-- 🔭 I’m currently an intern trying to find a full time job (someone please [hire me](https://jamesgalaxy.com))
-- 🌱 I’m currently learning PHP | Although I want to learn Go (Golang)
-- 👯 I’m looking to collaborate on web apps
-- 🤔 I’m looking for help with finding purpose in life
+- 🔭 I’m currently a working as a Freelance Full Stack Web Developer developing a web app which utilizes Node.js (Backend), React (Frontend), and PostgreSQL (Database).
+- 🌱 I’m currently learning Node.js.
+- 👯 I’m looking to collaborate on web apps.
+- 🤔 I’m looking for help with finding my speciality.
 - ⚡ Fun fact: I love watching documentaries!
 - 💬 Ask me about documentaries! Have I said how much I love documentaries?
 
@@ -17,12 +17,12 @@ When I'm not in front of my laptop, I'll be behind the camera! I like to show th
 
 ## 🔧 Favorite Tech
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Platform-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
