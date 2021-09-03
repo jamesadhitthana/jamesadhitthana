@@ -4,7 +4,7 @@
 
 Bilingual (English & Bahasa Indonesia), diligent, and competitive person, I am overly committed to finishing my tasks and striving to be better than others. When I am interested in a topic, I immerse myself in that topic to the point where I know I am confident that I can teach others on the subject. You should check out some of my projects! All of my projects are well documented 🤗
 
-- 🔭 I’m currently a working as a Freelance Full Stack Web Developer developing a web app which utilizes Node.js (Backend), React (Frontend), and PostgreSQL (Database).
+- 🔭 I’m currently a working as a Full Stack Web Developer developing web apps based on Node.js (Backend), React (Frontend), and PostgreSQL (Database).
 - 🌱 I’m currently learning Node.js.
 - 👯 I’m looking to collaborate on web apps.
 - 🤔 I’m looking for help with finding my speciality.
